@@ -1,3 +1,7 @@
+header{
+  background-color: white;
+  font-size: 30px;
+}
 body{
   height: 100vh;
   background-color:white;
@@ -55,7 +59,7 @@ color: #F1F1F1;
   font-size: 50px;
 }
 p{
-  font-size: 10px;
+  font-size: 20px;
   font-weight: bold;
   text-align: center;
 }
